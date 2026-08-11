@@ -2,7 +2,7 @@
 
 **FinTech • Machine Learning • Credit Risk • Fraud Analytics**
 
-I'm a fintech and risk analytics professional with experience building lending products, portfolio analytics, and machine learning solutions for financial services. I'm enjoy applying machine learning and software engineering to solve real business problems and am currently building end-to-end projects focused on fraud detection, credit risk, and financial intelligence.
+I'm a fintech and risk analytics professional with experience building lending products, portfolio analytics, and machine learning solutions for financial services. I enjoy applying machine learning and software engineering to solve real business problems and am currently building end-to-end projects focused on fraud detection, credit risk, and financial intelligence.
 
 ## 🚀 Areas of Focus
 
