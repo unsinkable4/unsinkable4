@@ -1,10 +1,10 @@
 # Hi, I'm Taimour Khan 👋
 
-**FinTech • Product • Machine Learning • Credit Risk • Fraud Analytics**
+**FinTech • Machine Learning • Credit Risk • Fraud Analytics**
 
-I'm a fintech and analytics professional with experience building lending products, machine learning solutions, portfolio analytics, and data products for financial services. I enjoy turning complex business problems into practical, data-driven solutions and am currently expanding my software engineering and machine learning skills through end-to-end projects.
+I'm a fintech and risk analytics professional with experience building lending products, portfolio analytics, and machine learning solutions for financial services. I'm enjoy applying machine learning and software engineering to solve real business problems and am currently building end-to-end projects focused on fraud detection, credit risk, and financial intelligence.
 
-## 🚀 Current Focus
+## 🚀 Areas of Focus
 
 * 💳 Machine Learning for Credit Risk & Fraud Detection
 * 📊 Financial Analytics & Predictive Modeling
@@ -28,61 +28,42 @@ I'm a fintech and analytics professional with experience building lending produc
 * NumPy
 * Matplotlib
 
-**Data**
+**Data Engineering**
 
 * PostgreSQL
 * Power BI
 * AWS Redshift
 
-**Tools**
+**Developer Tools**
 
 * Git & GitHub
 * uv
 * Jupyter
-* Docker *(learning)*
-* Google Cloud *(learning)*
+* Docker *(currently exploring)*
+* Google Cloud *(currently exploring)*
 
 ---
 
 ## 📌 Featured Projects
 
-### 💳 Credit Card Fraud Detection System
+| Project                                   | Description                                                                                                                                                                   |     Status     |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 💳 **Credit Card Fraud Detection System** | End-to-end fraud analytics case study covering data validation, feature engineering, machine learning, threshold optimization, prediction analysis, and model interpretation. |   ✅ Complete   |
+| 📈 **Market Intelligence Platform**       | Building a machine learning platform for financial market analysis featuring automated data pipelines, predictive modeling, portfolio analytics, and interactive dashboards.  | 🚧 In Progress |
+| 💰 **Credit Default Prediction**          | Applying modern machine learning techniques to the AMEX Default Prediction dataset to explore credit risk modeling, feature engineering, and explainable AI.                  |   📋 Planned   |
 
-An end-to-end fraud analytics case study covering:
-
-* Exploratory Data Analysis
-* Data Validation
-* Feature Engineering
-* Logistic Regression
-* Threshold Optimization
-* Random Forest
-* Model Comparison
-* Prediction Analysis
-* Feature Importance
-
-**Tech:** Python • scikit-learn • Pandas • NumPy • Matplotlib • pytest
 
 ---
 
-### 📈 Market Intelligence Platform *(In Progress)*
+## 💡 My Approach
 
-Building a machine learning platform for financial market analysis featuring:
+I enjoy building machine learning systems that answer real business questions—not just improve model metrics.
 
-* Automated market data pipelines
-* Feature engineering
-* Predictive modeling
-* Portfolio analytics
-* Interactive dashboards
+Every project in this portfolio is designed to combine analytical thinking, software engineering, and practical business impact.
 
 ---
 
-### 💰 Credit Default Prediction *(Coming Soon)*
-
-An end-to-end machine learning project using the AMEX Default Prediction dataset to explore modern credit risk modeling techniques, feature engineering, and explainable machine learning.
-
----
-
-## 🌱 What I'm Learning
+## 🌱 Currently Exploring
 
 * Machine Learning Engineering
 * MLOps
@@ -110,6 +91,5 @@ I'm interested in opportunities involving:
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/taimourkhan/)
-* [GitHub](https://github.com/unsinkable4) 
 
-I enjoy building innovative financial solutions!
+I believe the best machine learning projects don't end with a model—they end with a better business decision.
