@@ -112,4 +112,4 @@ I'm interested in opportunities involving:
 * [LinkedIn](https://www.linkedin.com/in/taimourkhan/)
 * [GitHub](https://github.com/unsinkable4) 
 
-Thanks for stopping by!
+I enjoy building innovative financial solutions!
