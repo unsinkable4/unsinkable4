@@ -1,6 +1,6 @@
 # Hi, I'm Taimour Khan 👋
 
-**Machine Learning • Credit Risk • Fraud Analytics • FinTech**
+**FinTech • Product • Machine Learning • Credit Risk • Fraud Analytics**
 
 I'm a fintech and analytics professional with experience building lending products, machine learning solutions, portfolio analytics, and data products for financial services. I enjoy turning complex business problems into practical, data-driven solutions and am currently expanding my software engineering and machine learning skills through end-to-end projects.
 
