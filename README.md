@@ -74,9 +74,7 @@ Every project in this portfolio is designed to combine analytical thinking, soft
 
 ---
 
-## 🎯 Career Interests
-
-I'm interested in opportunities involving:
+## 🎯 Interested in
 
 * FinTech
 * Lending
